@@ -5,9 +5,13 @@ fills your clockodo timesheet so you don't have to
 ## what it does
 
 • bulk creates time entries for date ranges
+
 • randomizes start times (13:30-14:00 by default)
+
 • auto-schedules 30min breaks
+
 • skips weekends and holidays
+
 • doesn't break when you mess up the config
 
 ## setup
