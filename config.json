@@ -1,0 +1,12 @@
+{
+  "customer_id": 2005009,
+  "service_id": 739320,
+  "billable": true,
+  "start_date": "2025-05-26",
+  "end_date": "2025-07-10",
+  "excluded_dates": ["2025-05-29", "2025-06-09", "2025-06-19", "2025-07-01"],
+  "timezone": "Europe/Berlin",
+  "start_time_options": ["13:30", "14:00"],
+  "end_time": "23:30",
+  "external_app": "Python Scheduler;k.slowik@cognigy.com"
+}
